@@ -1,0 +1,13 @@
+{
+  "version": "9.5.2",
+  "url": "https://github.com/adflex917/xtreaming-tv-updates/releases",
+  "apk_url": "https://github.com/adflex917/xtreaming-tv-updates/releases/download/Xv.9.5.2/Xtreaming.v9.5.2.apk",
+  "whats_new": [
+    "Buy Me a Coffee: QR code GoPay untuk dukungan pengembangan",
+    "Fix: Install update via share dialog berfungsi normal",
+    "Clear cache: Continue Watching ikut terhapus dengan benar",
+    "Settings: UI section dirombak ulang, lebih rapi",
+    "Anime screen: tab TV Series & Manga tanpa sub-header berulang",
+    "About: informasi Author ditambahkan"
+  ]
+}
